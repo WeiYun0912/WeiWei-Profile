@@ -1,0 +1,56 @@
+[
+    {
+        "Medal" : "medal_gold.png",
+        "ContestTitle" : "2018亞洲跨國際黑克松",
+        "ContestRank" : "入圍台灣前五名",
+        "ContestReward" : "獎金：$73,000"
+    },
+    {
+        "Medal" : "medal_gold.png",
+        "ContestTitle" : "2018亞洲跨國際黑克松",
+        "ContestRank" : "最佳黑客獎",
+        "ContestReward" : "獎金：$22,400"
+    },
+    {
+        "Medal" : "medal_sliver.png",
+        "ContestTitle" : "2018資訊應用創新競賽",
+        "ContestRank" : "教育開放資料組-第二名",
+        "ContestReward" : "獎金：$50,000"
+    },
+    {
+        "Medal" : "medal_bronze.png",
+        "ContestTitle" : "2019資料創新應用競賽",
+        "ContestRank" : "多元氣象服務組-銅獎",
+        "ContestReward" : "獎金：$50,000"
+    },
+    {
+        "Medal" : "medal_gold.png",
+        "ContestTitle" : "校內專題競賽(三)",
+        "ContestRank" : "第一名",
+        "ContestReward" : "獎金：$8,000"
+    },
+    {
+        "Medal" : "medal_sliver.png",
+        "ContestTitle" : "校內專題競賽(二)",
+        "ContestRank" : "第二名",
+        "ContestReward" : "獎金：$5,000"
+    },
+    {
+        "Medal" : "medal_gold.png",
+        "ContestTitle" : "樹德大使選拔",
+        "ContestRank" : "知性大使",
+        "ContestReward" : "獎金：$8,000"
+    },
+    {
+        "Medal" : "medal_sliver.png",
+        "ContestTitle" : "2019臺南市資料視覺挑戰賽",
+        "ContestRank" : "入圍",
+        "ContestReward" : "獎金：無"
+    },
+    {
+        "Medal" : "medal_sliver.png",
+        "ContestTitle" : "2018資料創新應用競賽",
+        "ContestRank" : "社會經濟空間組-入圍",
+        "ContestReward" : "獎金：無"
+    }
+]
