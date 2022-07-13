@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WeiWei-Profile/static/css/main.822d310e.css",
+    "main.js": "/WeiWei-Profile/static/js/main.94780cb6.js",
+    "static/media/background.jpg": "/WeiWei-Profile/static/media/background.f581b6f4788ce9aa34c5.jpg",
+    "static/media/instagram.svg": "/WeiWei-Profile/static/media/instagram.b133e565e26031a4181b82e6a67d7c65.svg",
+    "static/media/github.svg": "/WeiWei-Profile/static/media/github.3b21c250a99986431958daaa9246a45a.svg",
+    "index.html": "/WeiWei-Profile/index.html",
+    "static/media/youtube.svg": "/WeiWei-Profile/static/media/youtube.7f4cdfacde8ccbd90dc0928aff24af16.svg",
+    "main.822d310e.css.map": "/WeiWei-Profile/static/css/main.822d310e.css.map",
+    "main.94780cb6.js.map": "/WeiWei-Profile/static/js/main.94780cb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822d310e.css",
+    "static/js/main.94780cb6.js"
+  ]
+}
