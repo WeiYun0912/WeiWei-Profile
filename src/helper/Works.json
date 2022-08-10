@@ -1,0 +1,66 @@
+[
+  {
+    "workName": "去中心化二手車平台",
+    "workDesc": "負責項目：全端",
+    "workIcon": "work1.png",
+    "workIconWidth": "110px",
+    "workUrl": "#"
+  },
+
+  {
+    "workName": "水情報你知",
+    "workDesc": "負責項目：全端",
+    "workIcon": "work2.png",
+    "workIconWidth": "140px",
+    "workUrl": "#"
+  },
+  {
+    "workName": "服務足跡",
+    "workDesc": "負責項目：後端",
+    "workIcon": "work3.png",
+    "workIconWidth": "120px",
+    "workUrl": "#"
+  },
+  {
+    "workName": "Place Radar",
+    "workDesc": "負責項目：後端",
+    "workIcon": "work4.png",
+    "workIconWidth": "205px",
+    "workUrl": "https://github.com/WeiYun0912/PlaceRadar"
+  },
+  {
+    "workName": "Star Movie",
+    "workDesc": "負責項目：前端",
+    "workIcon": "work5.png",
+    "workIconWidth": "100px",
+    "workUrl": "https://github.com/WeiYun0912/starmovie"
+  },
+  {
+    "workName": "DriDriGo",
+    "workDesc": "負責項目：前端",
+    "workIcon": "work6.png",
+    "workIconWidth": "100px",
+    "workUrl": "https://github.com/WeiYun0912/DriDriGo"
+  },
+  {
+    "workName": "Monster Inc",
+    "workDesc": "負責項目：前端",
+    "workIcon": "work7.png",
+    "workIconWidth": "100px",
+    "workUrl": "https://github.com/WeiYun0912/Monster-Inc"
+  },
+  {
+    "workName": "Simpsons",
+    "workDesc": "負責項目：前端",
+    "workIcon": "work8.png",
+    "workIconWidth": "100px",
+    "workUrl": "https://github.com/WeiYun0912/simpsons"
+  },
+  {
+    "workName": "Wei Movies",
+    "workDesc": "負責項目：前端",
+    "workIcon": "work9.png",
+    "workIconWidth": "100px",
+    "workUrl": "https://github.com/WeiYun0912/React-Native-Wei-Movies"
+  }
+]

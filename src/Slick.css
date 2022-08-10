@@ -1,0 +1,20 @@
+/* the slides */
+.slick-slide {
+  /* margin: 0 20px; */
+  /* width: 33% !important; */
+  /* width: 350px; */
+  padding: 15px;
+}
+
+.slick-slide div {
+  /* pointer-events: none; */
+}
+
+.slick-slide div a {
+  text-decoration: none;
+}
+
+/* the parent */
+.slick-list {
+  /* margin: 0 -20px; */
+}
