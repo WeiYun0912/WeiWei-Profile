@@ -8,12 +8,13 @@ const Contest = () => {
     <>
       <ContestTitleStyled>競賽記錄</ContestTitleStyled>
       <ContestBox>
-        {ContestData.map((contest) => (
+        {ContestData.map((contest, i) => (
           <ContestMedal
             Medal={contest.Medal}
             ContestTitle={contest.ContestTitle}
             ContestRank={contest.ContestRank}
             ContestReward={contest.ContestReward}
+            key={i}
           ></ContestMedal>
         ))}
       </ContestBox>

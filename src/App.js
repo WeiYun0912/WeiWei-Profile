@@ -2,7 +2,8 @@ import "./App.css";
 import Banner from "./components/Banner/Banner";
 import Contest from "./components/Contest/Contest";
 import Header from "./components/Header/Header";
-import Works from "./components/Works/Works";
+import WorkDesc from "./components/Works/WorkDesc";
+import WorksCarousel from "./components/Works/WorksCarousel";
 
 function App() {
   return (
@@ -10,7 +11,8 @@ function App() {
       <Header />
       <Banner />
       <Contest />
-      <Works />
+      <WorksCarousel />
+      <WorkDesc />
     </div>
   );
 }

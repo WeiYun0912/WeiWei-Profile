@@ -1,66 +1,84 @@
 [
   {
     "workName": "去中心化二手車平台",
-    "workDesc": "負責項目：全端",
+    "workPosition": "負責項目：全端",
     "workIcon": "work1.png",
     "workIconWidth": "110px",
-    "workUrl": "#"
+    "workUrl": "#",
+    "workImage" : "workBackground1.png",
+    "workDesc" : "使用React、Redux、Axios將TMDB的API進行解析處理後製成網頁。"
   },
 
   {
     "workName": "水情報你知",
-    "workDesc": "負責項目：全端",
+    "workPosition": "負責項目：全端",
     "workIcon": "work2.png",
     "workIconWidth": "140px",
-    "workUrl": "#"
+    "workUrl": "#",
+    "workImage" : "workBackground2.png",
+    "workDesc" : "使用React、Redux、Axios將TMDB的API進行解析處理後製成網頁。"
   },
   {
     "workName": "服務足跡",
-    "workDesc": "負責項目：後端",
+    "workPosition": "負責項目：後端",
     "workIcon": "work3.png",
     "workIconWidth": "120px",
-    "workUrl": "#"
+    "workUrl": "#",
+    "workImage" : "workBackground3.png",
+    "workDesc" : "使用React、Redux、Axios將TMDB的API進行解析處理後製成網頁。"
   },
   {
     "workName": "Place Radar",
-    "workDesc": "負責項目：後端",
+    "workPosition": "負責項目：後端",
     "workIcon": "work4.png",
     "workIconWidth": "205px",
-    "workUrl": "https://github.com/WeiYun0912/PlaceRadar"
+    "workUrl": "https://github.com/WeiYun0912/PlaceRadar",
+    "workImage" : "workBackground4.png",
+    "workDesc" : "使用React、Redux、Axios將TMDB的API進行解析處理後製成網頁。"
   },
   {
     "workName": "Star Movie",
-    "workDesc": "負責項目：前端",
+    "workPosition": "負責項目：前端",
     "workIcon": "work5.png",
     "workIconWidth": "100px",
-    "workUrl": "https://github.com/WeiYun0912/starmovie"
+    "workUrl": "https://github.com/WeiYun0912/starmovie",
+    "workDesc" : "使用React、Redux、Axios將TMDB的API進行解析處理後製成網頁。",
+    "workImage" : "workBackground5.png"
   },
   {
     "workName": "DriDriGo",
-    "workDesc": "負責項目：前端",
+    "workPosition": "負責項目：前端",
     "workIcon": "work6.png",
     "workIconWidth": "100px",
-    "workUrl": "https://github.com/WeiYun0912/DriDriGo"
+    "workUrl": "https://github.com/WeiYun0912/DriDriGo",
+    "workDesc" : "使用React、Redux將TheCocktailDB的API進行解析處理後製成網頁。",
+    "workImage" : "workBackground6.png"
   },
   {
     "workName": "Monster Inc",
-    "workDesc": "負責項目：前端",
+    "workPosition": "負責項目：前端",
     "workIcon": "work7.png",
     "workIconWidth": "100px",
-    "workUrl": "https://github.com/WeiYun0912/Monster-Inc"
+    "workUrl": "https://github.com/WeiYun0912/Monster-Inc",
+    "workDesc" : "使用HTML5、CSS3、JavaScript進行刻板與動畫練習。",
+    "workImage" : "workBackground7.png"
   },
   {
     "workName": "Simpsons",
-    "workDesc": "負責項目：前端",
+    "workPosition": "負責項目：前端",
     "workIcon": "work8.png",
     "workIconWidth": "100px",
-    "workUrl": "https://github.com/WeiYun0912/simpsons"
+    "workUrl": "https://github.com/WeiYun0912/simpsons",
+    "workDesc" : "使用HTML5、CSS3、JavaScript進行刻板與動畫練習。",
+    "workImage" : "workBackground8.png"
   },
   {
     "workName": "Wei Movies",
-    "workDesc": "負責項目：前端",
+    "workPosition": "負責項目：前端",
     "workIcon": "work9.png",
     "workIconWidth": "100px",
-    "workUrl": "https://github.com/WeiYun0912/React-Native-Wei-Movies"
+    "workUrl": "https://github.com/WeiYun0912/React-Native-Wei-Movies",
+    "workDesc" : "使用React Native將TMDB的API進行解析處理後製成手機APP。",
+    "workImage" : "workBackground9.png"
   }
 ]
